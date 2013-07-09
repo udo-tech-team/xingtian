@@ -1,0 +1,45 @@
+body
+{
+	padding-top:40px;
+}
+
+.navbar
+{
+	opacity:0.9
+}
+
+.popover
+{
+	margin-left:100px;
+}
+
+.popover_avatar img
+{
+	margin-left:25px;
+}
+
+.popover_avatar small
+{
+	margin-left:35px;
+}
+
+.star_user
+{
+	margin-top:30px;
+}
+
+.cat_list
+{
+	margin-top:30px;
+}
+
+.more_padding_right
+{
+	padding-right:30px;
+}
+
+
+
+
+
+
